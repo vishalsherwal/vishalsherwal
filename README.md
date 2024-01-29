@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Vishal</h1>
 <h3 align="center">Front-end developer And Problem Solver from India.</h3>
 
-<img align="right" alt="coding" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2toYXlhM2twaXc3enVqNzhzNXYzaWNlYmtxZTFndWE2a2IyM2swMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2toYXlhM2twaXc3enVqNzhzNXYzaWNlYmtxZTFndWE2a2IyM2swMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsherwal&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsherwal" /> </p>
 
